@@ -1,2 +1,14 @@
-
+.holder{
+    height: 100vh;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.item-1{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    line-height: 100px;
+    align-items: center;
+}
 /* Your CSS Code here. */
